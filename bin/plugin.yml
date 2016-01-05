@@ -1,0 +1,10 @@
+name: VenomDeathBans
+main: net.venom.deathbans.DeathBansPlugin
+version: 0.1-BETA
+author: Venom!
+commands:
+  venomdeathbans:
+    aliases: [vb]
+    description: Ogolna komenda pluginu.
+  infoban:
+    description: Infomacje o banie.

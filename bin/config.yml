@@ -1,0 +1,17 @@
+#Czas bana - w sekundach.
+time-ban: 10
+
+#Wiadomosc przy probie interakacji (proba pisania na chacie, wpisywanie komend).
+message-interaction: 'Masz bana! Zakup unbana: http://twojastrona.pl/unban/.'
+
+#Wiadomosc odbanowania - publiczna. ZMIENNE: {UNBANNED} - nick odbanowanego.
+message-unban: 'Gracz: {UNBANNED} zostal odbanowany z posmiertnego bana!'
+
+#Wiadomosc bana - prywatna.
+message-banned: 'Otrzymales posmiertnego bana! Uzywaj: /infoban by sprawdzac jego waznosc.'
+
+#Lokalizacja pokoju bana - do ustawienia uzyj: /vb setroom.
+room-coordinate: world;79;67;13;0.0;0.0
+
+#Lokalizacja teleportacji po odbanowaniu - do ustawienia uzyj: /vb setspawn.
+respawn-coordinate: world;79;67;13;0.0;0.0
