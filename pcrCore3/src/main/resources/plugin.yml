@@ -1,0 +1,112 @@
+name: pcrCore
+main: net.brightblack9911.pcrCore.basic.CorePlugin
+author: BrightBlack9911
+version: 0.0.1
+commands:
+  achievement:
+    description: Shows your achievements.
+    aliases: [ach, osiagniecia]
+  back:
+    description: Return to died location.
+  broadcast:
+    description: Public message.
+    aliases: [bc, bcast]
+  chat:
+    description: Management chat.
+    aliases: [c]
+  corereload:
+    description: Core reload.
+    aliases: [cr, tr, toolsreload]
+  cuboid:
+    description: Management player cuboid.
+  drop:
+    description: List of item drops.
+    aliases: [stone, surowce]
+  enderchest:
+    description: Opens portable enderchest.
+    aliases: [ec, ender]
+  exchangecoin:
+    description: Exchange item on coins.
+    aliases: [wymiananacoins, wymienitem]
+  feed:
+    description: Feeding.
+    aliases: [karm, nakarm]
+  fly:
+    description: Flying.
+  freeze:
+    description: Freezing players.
+    aliases: [zamroz, sprawdz, check]
+  hat:
+    description: Wears block on head.
+    aliases: [czapka, kapelusz]
+  head:
+    description: Takes player skull.
+  help:
+    description: Shows a server help.
+    aliases: [pomoc]
+  helpop:
+    description: Send message to owners.
+    aliases: [ticket, zglos]
+  home:
+    description: Teleports to your home.
+    aliases: [dom, chata]
+  invsee:
+    description: Check player inventory.
+  kit:
+    description: Kits.
+    aliases: [zestaw, zestawy, kits]
+  owners:
+    description: List of owners.    
+    aliases: [team, admini, administracja]
+  pay:
+    description: Pay COINS other player.
+    aliases: [daj, zaplac]
+  repair:
+    description: Repairs tools.
+    aliases: [napraw, fix]
+  reply:
+    description: Quickly reply to the last player to message you.
+    aliases: [r]
+  sethome:
+    description: Set home.
+  setrandomtp:
+    description: Sets random teleport location.
+    aliases: [srt]
+  setslots:
+    description: Set slot amount.
+    aliases: [ss, maxplayers]
+  setzone:
+    description: Sets cuboids zone.
+  shop:
+    description: Shop for coins.
+    aliases: [sklep]
+  spawn:
+    description: Teleport to spawn.
+  tell: 
+    description: Sends a private message to the specified player.
+    aliases: [w, m, t, pw, pm, msg, whisper]
+  tpaccept: 
+    description: Accepts a teleport request.
+  tpa: 
+    description: Request to teleport to the specified player.
+  tpdeny:
+    description: Reject a teleport request.
+    aliases: [tpno, reject]
+  tphere: 
+    description: Teleports the specified player teleport to you.
+    usage: /tphere <nick>
+    aliases: [s]
+  vip:
+    description: Info about premium rank.
+    aliases: [premium]
+  workbench: 
+    description: Opens portable workbench.
+    aliases: [wbench, crafting, craft]
+  addcoins: 
+    description: Add Coins fo player.
+  miesko: 
+    description: Get miesko for player.
+  skanuj: 
+    description: Skanuje...
+  safe: 
+    description: Bezpieczenstwo

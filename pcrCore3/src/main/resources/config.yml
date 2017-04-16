@@ -1,0 +1,46 @@
+config:
+  mysql:
+    host: ""
+    port: 3306
+    database: ""
+    user: ""
+    pass: ""
+  autoMsgInterval: 60
+  checkRoom: ""
+  allowKits: true
+  allowShop: true
+  motd: ''
+  zone:
+    wall1:
+      point1: ""
+      point2: ""
+    wall2:
+      point1: ""
+      point2: ""
+messages:
+  join: ""
+  quit: ""
+  joinMotd: 
+  - "1"
+  help:
+  - "1"
+  - "2"
+  - "3"
+  - "4"
+  - "5"
+  vip:
+  - "1"
+  - "2"
+  youtuber:
+  - "1"
+  - "2"
+  teamspeak:
+  - "1"
+  whitelist: "1"
+  firstJoin: "1"
+  autoMessage:
+    prefix: "1"
+    messages:
+    - "1"
+    - "2"
+  shop:
