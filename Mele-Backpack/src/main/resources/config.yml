@@ -1,0 +1,5 @@
+messages: 
+  inventory-title: 'zawartosc plecaka'
+  backpack-item-name: 'plecak'
+  get-backpack: 'Otrzymales plecak!'
+  reload: 'Plugin zostal przeladowany.'

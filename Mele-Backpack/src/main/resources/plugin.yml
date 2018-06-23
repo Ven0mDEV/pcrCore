@@ -1,0 +1,11 @@
+name: Mele-BackPack
+main: net.codesquad.backpack.BackPackPlugin
+author: nano3.
+version: 0.1
+commands: 
+  givebackpack:
+    description: Give backpack. 
+    aliases: [givebp, dajplecak, backpack, plecak]
+  backpackreload:
+    description: Reload backpack plugin.
+    aliases: [bprl, bpr, bpreload] 
